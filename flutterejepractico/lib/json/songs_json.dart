@@ -5,7 +5,7 @@ const List song_type_1 = [
   "Caninos",
   "Aves",
   "Reptiles",
-  "Anfibios",
+  "Marsupiales",
   "Peces",
 ];
 const List song_type_2 = [
@@ -229,7 +229,7 @@ const List caninos = [
     "song_count": "10 songs",
     "date": "about 4 hr",
     "color": Color(0xFFf69129),
-    "song_url": "songs/01leon.mp3",
+    "song_url": "songs/04lobo.mp3",
     "songs": [
       {"title": "Imagination", "duration": "1:21"},
       {"title": "Home_", "duration": "2:17"},
@@ -247,7 +247,7 @@ const List caninos = [
     "song_count": "32 songs",
     "date": "about 1 hr",
     "color": Color(0xFF64849c),
-    "song_url": "songs/02jaguar.mp3",
+    "song_url": "songs/05hiena.mp3",
     "songs": [
       {"title": "Kaleidoscope", "duration": "2:01"},
       {"title": "Larks", "duration": "2:54"},
@@ -265,7 +265,7 @@ const List caninos = [
     "song_count": "19 songs",
     "date": "about 03 hr",
     "color": Color(0xFF58546c),
-    "song_url": "songs/03guepardo.mp3",
+    "song_url": "songs/06dalmata.mp3",
     "songs": [
       {"title": "Escaping Time", "duration": "3:20"},
       {"title": "Just Look at You", "duration": "3:07"},
@@ -412,7 +412,7 @@ const List aves = [
     "song_count": "10 songs",
     "date": "about 4 hr",
     "color": Color(0xFFf69129),
-    "song_url": "songs/01leon.mp3",
+    "song_url": "songs/07guacamaya.mp3",
     "songs": [
       {"title": "Imagination", "duration": "1:21"},
       {"title": "Home_", "duration": "2:17"},
@@ -430,7 +430,7 @@ const List aves = [
     "song_count": "32 songs",
     "date": "about 1 hr",
     "color": Color(0xFF64849c),
-    "song_url": "songs/02jaguar.mp3",
+    "song_url": "songs/08aguila.mp3",
     "songs": [
       {"title": "Kaleidoscope", "duration": "2:01"},
       {"title": "Larks", "duration": "2:54"},
@@ -448,7 +448,7 @@ const List aves = [
     "song_count": "19 songs",
     "date": "about 03 hr",
     "color": Color(0xFF58546c),
-    "song_url": "songs/03guepardo.mp3",
+    "song_url": "songs/09tucan.mp3",
     "songs": [
       {"title": "Escaping Time", "duration": "3:20"},
       {"title": "Just Look at You", "duration": "3:07"},
