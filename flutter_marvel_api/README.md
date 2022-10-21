@@ -1,4 +1,4 @@
-# flutter_muc_api
+# flutter_api
 
 A flutter project to make API response
 
