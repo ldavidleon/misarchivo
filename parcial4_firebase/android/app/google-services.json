@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604805404863",
+    "project_id": "basededatos-c060c",
+    "storage_bucket": "basededatos-c060c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604805404863:android:af1b801b94429b02208e0a",
+        "android_client_info": {
+          "package_name": "com.example.parcial4_etps3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604805404863-i5i7juvg813cue739d34cer1vdvqdv76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJRm0OJaRpcQ2jpVl_bSLhgZuDsF6Ab8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604805404863-i5i7juvg813cue739d34cer1vdvqdv76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
